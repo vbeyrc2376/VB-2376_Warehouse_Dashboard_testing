@@ -1,0 +1,44 @@
+.App {
+    background-color: #1e2025;
+    font-family: 'Montserrat';
+}
+
+.TableContainer {
+    align-items: center;
+    justify-content: center;
+    height: 27vh;
+    font-family: 'Montserrat';
+}
+.GraphContainer {
+    align-items: center;
+    justify-content: center;
+}
+
+.leaflet-container {
+    width: 100%;
+    height: 100vh;
+    border-radius: 30px;
+}
+#mapdiv {
+    width: 100%;
+    height: 70vh;
+    overflow: hidden;
+}
+.ColumnReset{
+    column-count: 2;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
