@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/VB-2376_Warehouse_Dashboard_testing/static/css/main.7c7bdd3d.chunk.css",
+    "main.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/main.3d58c31b.chunk.js",
+    "main.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/main.3d58c31b.chunk.js.map",
+    "runtime-main.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/runtime-main.cd59ea5e.js",
+    "runtime-main.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/runtime-main.cd59ea5e.js.map",
+    "xlsx.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/xlsx.84cec7db.chunk.js",
+    "xlsx.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/xlsx.84cec7db.chunk.js.map",
+    "static/css/3.150d169a.chunk.css": "/VB-2376_Warehouse_Dashboard_testing/static/css/3.150d169a.chunk.css",
+    "static/js/3.d77a2238.chunk.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/3.d77a2238.chunk.js",
+    "static/js/3.d77a2238.chunk.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/3.d77a2238.chunk.js.map",
+    "static/js/4.0238d825.chunk.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/4.0238d825.chunk.js",
+    "static/js/4.0238d825.chunk.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/4.0238d825.chunk.js.map",
+    "static/js/5.da85e50d.chunk.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/5.da85e50d.chunk.js",
+    "static/js/5.da85e50d.chunk.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/5.da85e50d.chunk.js.map",
+    "static/js/6.7abc0e05.chunk.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/6.7abc0e05.chunk.js",
+    "static/js/6.7abc0e05.chunk.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/6.7abc0e05.chunk.js.map",
+    "static/js/7.fb153f66.chunk.js": "/VB-2376_Warehouse_Dashboard_testing/static/js/7.fb153f66.chunk.js",
+    "static/js/7.fb153f66.chunk.js.map": "/VB-2376_Warehouse_Dashboard_testing/static/js/7.fb153f66.chunk.js.map",
+    "index.html": "/VB-2376_Warehouse_Dashboard_testing/index.html",
+    "static/css/3.150d169a.chunk.css.map": "/VB-2376_Warehouse_Dashboard_testing/static/css/3.150d169a.chunk.css.map",
+    "static/css/main.7c7bdd3d.chunk.css.map": "/VB-2376_Warehouse_Dashboard_testing/static/css/main.7c7bdd3d.chunk.css.map",
+    "static/js/3.d77a2238.chunk.js.LICENSE.txt": "/VB-2376_Warehouse_Dashboard_testing/static/js/3.d77a2238.chunk.js.LICENSE.txt",
+    "static/js/5.da85e50d.chunk.js.LICENSE.txt": "/VB-2376_Warehouse_Dashboard_testing/static/js/5.da85e50d.chunk.js.LICENSE.txt",
+    "static/js/6.7abc0e05.chunk.js.LICENSE.txt": "/VB-2376_Warehouse_Dashboard_testing/static/js/6.7abc0e05.chunk.js.LICENSE.txt",
+    "static/media/dispatch.a7c894b2.svg": "/VB-2376_Warehouse_Dashboard_testing/static/media/dispatch.a7c894b2.svg",
+    "static/media/eyantra.ed4aea70.svg": "/VB-2376_Warehouse_Dashboard_testing/static/media/eyantra.ed4aea70.svg",
+    "static/media/order.bd40c887.svg": "/VB-2376_Warehouse_Dashboard_testing/static/media/order.bd40c887.svg",
+    "static/media/shipped.4fa3e81a.svg": "/VB-2376_Warehouse_Dashboard_testing/static/media/shipped.4fa3e81a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd59ea5e.js",
+    "static/css/3.150d169a.chunk.css",
+    "static/js/3.d77a2238.chunk.js",
+    "static/css/main.7c7bdd3d.chunk.css",
+    "static/js/main.3d58c31b.chunk.js"
+  ]
+}
